@@ -27,6 +27,25 @@ It supports a host of commands of which these are the most common ones.
 * `flutter run` : runs the current App in an emulator or connected physical device.
 * `flutter run --release` : runs the release variant
 * `flutter build` : build the Flutter app and generates the release binaries for distribution. 
+* `flutter upgrade` : upgrades your global flutter installation.
+
+### Device or Emulator
+
+It's no good writing code in an empty editor what's exciting is seeing it run. To run Flutter Apps we need either and emulator or an actual physical device. A physical device is recommended during final testing so we can test the actual experience the user will have. Emulators suffice for testing but keep in mind that some tasks like location and camera access can only be tested on an actual device.
+
+iOS Simulator set up  :  [https://flutter.dev/docs/get-started/install/macos\#set-up-the-ios-simulator](https://flutter.dev/docs/get-started/install/macos#set-up-the-ios-simulator)
+
+Android Emulator : [https://flutter.dev/docs/get-started/install/macos\#set-up-the-android-emulator](https://flutter.dev/docs/get-started/install/macos#set-up-the-android-emulator)
+
+### IDE
+
+One of the best things about Flutter is the associated tooling that comes with it. The team has done a stellar job of creating awesome plugins that provide features such as code completion, boilerplate generation, debugging and auto format. It is highly recommended that you use either VSCode or Android Studio as they are the only ones who are officially supported. 
+
+If you don't have a preference I would recommend that you go with VSCode as it contains about the same functionality as Android Studio for  Flutter development with about 1/10 of the resource usage.
+
+VSCode instructions : [https://flutter.dev/docs/get-started/editor?tab=vscode](https://flutter.dev/docs/get-started/editor?tab=vscode)
+
+Android Studio  : [https://flutter.dev/docs/get-started/editor?tab=androidstudio](https://flutter.dev/docs/get-started/editor?tab=androidstudio) 
 
 ### 
 

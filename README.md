@@ -12,5 +12,5 @@ With increased flexibility comes increased responsibilities and choices. These c
 
 Flutter Flight aims to teach Flutter from it's basic principle upwards. We will then build three apps of increasing complexity that would teach you how to use these principles in a real app. This guide does not seek to reinvent the wheel and would link to other resources on the web. 
 
-The guide aims to be more of a guide light rather than a real light taking the endless hours of searching for the best resources for a topic to more of a self study guide.
+The guide aims to be more of a guide light rather than a real guide taking the endless hours of searching for the best resources for a topic to more of a self study guide.
 
